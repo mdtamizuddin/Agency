@@ -8,8 +8,10 @@ module.exports = nextConfig
 
 module.exports = {
   images: {
-    domains: ['img.freepik.com', 'firebasestorage.googleapis.com',
-      'i.ibb.co', 'www.tailorbrands.com'
+    domains: ['img.freepik.com',
+      'firebasestorage.googleapis.com',
+      'i.ibb.co',
+      'www.tailorbrands.com'
     ],
   },
 }
